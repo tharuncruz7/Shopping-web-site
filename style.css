@@ -1,6 +1,4 @@
 <style>
-
-
 .home_txt .btn::before {
   width: 70%;
   height: 2px;
@@ -11,7 +9,6 @@
   top: 7px;
   border-radius: 50%;
 }
-
 .home_txt .btn::after {
   width: 70%;
   height: 2px;
